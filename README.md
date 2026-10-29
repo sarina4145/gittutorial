@@ -55,6 +55,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mehdi Khorshidi far](https://github.com/Mehdi-dev-sudo) :smoking:
 - [Alireza Amiri](https://github.com/AlirezaAmiri01) :smile:
 - [SKy MaZe](https://github.com/skmz1380) :milky_way:
+- [sarina4145](https://github.com/sarina4145)
 - [Geekmanesh](https://github.com/geekmanesh) :sunglasses:
 - [**Mahdi Kordian**](https://github.com/MahdiKordian) 🤖🧠
 - [BahareMhm](https://github.com/BahareMhm):balloon:
